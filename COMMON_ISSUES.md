@@ -16,6 +16,9 @@
 ## 4. Outdated Go version
 - **Fix:** Download and install the latest version from the [official Go website](https://golang.org/dl/).
 
+## Running the app; error: stat main.go no such file or directory
+- **Fix** On your terminal, make sure you are in the folder in which the file is in, then run ```go run main.go``` again in terminal.
+
 ## Helpful Links
 - [StackOverflow Go tag](https://stackoverflow.com/questions/tagged/go)
 - [Go Installation Guide](https://golang.org/doc/install)
